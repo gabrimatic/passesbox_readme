@@ -1,2 +1,22 @@
-# passesbox_readme
-https://passesbox.gabrimatic.info
+##Say Hello to PassesBox!
+#####Your offline-secure password manager platform.
+
+PassesBox is developed to help you in managing all your passwords. 
+We have a lot of accounts on social media, emits, credit cards, etc. It's challenging to have a unique, complex, and secure password and remember them simultaneously!
+
+####🤝  PassesBox is here to handle this for you.
+
+👨🏻‍💻 Thanks to the Flutter framework, this application supports **Windows**, **Web**, **iOS**, and **Android** platforms.
+
+🖥  PassesBox is entirely offline.
+You can backup all your passwords on mobile and restore them on the web or desktop.
+
+⚙️  This application uses **Hive no-SQL**, local **biometric authentication**, and a **secure encryption system** to make your experience fast and safe.
+
+ℹ️  On the Windows platform, the backup file will save on the Downloads directory.
+
+
+##Downloads
+* Web application
+* Windows application
+* Android application
