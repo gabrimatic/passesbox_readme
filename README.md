@@ -17,6 +17,6 @@ You can backup all your passwords on mobile and restore them on the web or deskt
 
 
 ## Downloads
-* Web application
-* Windows application
-* Android application
+* ##### [Web application](http://passesbox.gabrimatic.info "Web application")
+* ##### [Windows application](https://github.com/gabrimatic/passesbox_readme/raw/main/passesbox_windows.zip "Windows application")
+* ##### [Android application](https://github.com/gabrimatic/passesbox_readme/raw/main/passesbox.apk "Android application")
