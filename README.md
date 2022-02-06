@@ -23,4 +23,5 @@ You can backup all your passwords on mobile and restore them on the web or deskt
 
 ## Developer
 By [Hossein Yousefpour](https://gabrimatic.info "Hossein Yousefpour")
+
 &copy; All rights reserved.
