@@ -1,7 +1,7 @@
 ## Say Hello to PassesBox!
 ##### Your offline-secure password manager platform.
 
-![screenshot](https://github.com/gabrimatic/passesbox_readme/raw/main/screenshot.png "screenshot")
+<img src="https://github.com/gabrimatic/passesbox_readme/raw/main/screenshot.png"/>
 
 PassesBox is developed to help you in managing all your passwords. 
 We have a lot of accounts on social media, emits, credit cards, etc. It's challenging to have a unique, complex, and secure password and remember them simultaneously!
