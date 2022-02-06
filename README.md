@@ -1,10 +1,10 @@
-##Say Hello to PassesBox!
-#####Your offline-secure password manager platform.
+## Say Hello to PassesBox!
+##### Your offline-secure password manager platform.
 
 PassesBox is developed to help you in managing all your passwords. 
 We have a lot of accounts on social media, emits, credit cards, etc. It's challenging to have a unique, complex, and secure password and remember them simultaneously!
 
-####🤝  PassesBox is here to handle this for you.
+#### 🤝  PassesBox is here to handle this for you.
 
 👨🏻‍💻 Thanks to the Flutter framework, this application supports **Windows**, **Web**, **iOS**, and **Android** platforms.
 
@@ -16,7 +16,7 @@ You can backup all your passwords on mobile and restore them on the web or deskt
 ℹ️  On the Windows platform, the backup file will save on the Downloads directory.
 
 
-##Downloads
+## Downloads
 * Web application
 * Windows application
 * Android application
