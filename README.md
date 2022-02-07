@@ -36,4 +36,4 @@ OR
 * ETH Address: **0xc2F103b11C5d7bE3Abe292EE549a3ba418655A0E**
 
 ## License
-The MIT License (MIT)
+[The MIT License (MIT)](https://raw.githubusercontent.com/gabrimatic/passesbox_readme/main/LICENSE)
