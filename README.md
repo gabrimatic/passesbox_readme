@@ -11,8 +11,8 @@ We have a lot of accounts on social media, emits, credit cards, etc. It's challe
 PassesBox is entirely **offline**.
 You can backup all your passwords on mobile and restore them on the web or desktop.
 
-*On the Windows platform, the backup file will save on the Downloads directory.
-*
+*On the Windows platform, the backup file will save on the **Downloads directory**.*
+
 ## Technical info
 This application uses **no-SQL database**, local **biometric authentication**, and a **secure encryption system** to make your experience fast and safe.
 
